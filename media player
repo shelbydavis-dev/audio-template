@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> <!--Vector Markup Language (VML) namespace declaration, to ensure email will render any VML added-->
+
+	<head>
+		<title>EMAIL TITLE</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600,700,800" rel="stylesheet" type="text/css">
+    <meta name=”x-apple-disable-message-reformatting”> <!--prevents the Apple fix -->
+
+    <!-- Solves DPI scaling issues in Outlook. must include the VML declaration covered above or this code will not work. -->
+
+    <!--[if gte mso 9]><xml>
+	<o:OfficeDocumentSettings>
+	<o:AllowPNG/>
+	<o:PixelsPerInch>96</o:PixelsPerInch>
+	</o:OfficeDocumentSettings>
+    </xml><![endif]--> 
+
+	<!-- MSO CONDITIONAL COMMENTS FOR FONTS -->
+	<!--[if (gte mso 9)|(IE)]>
+	<style>
+	td {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 18px;
+		line-height: 28px;
+	}
+
+	td a {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 18px;
+		line-height: 28px;
+	}
+	p {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 18px;
+		line-height: 28px;
+	}
+	</style>
+	<![endif]-->
+
+
+		<style type="text/css">
+
+			/* PULL IN FONT FROM EXTERNAL STYLE SHEET */
+			/* @import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,600,700,800'); */
+
+
+			
+			/* CLIENT-SPECIFIC STYLES */
+			body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+			table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+			img { -ms-interpolation-mode: bicubic; }
+			
+			/* RESET STYLES */
+			img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+			table { border-collapse: collapse !important; }
+			body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+			
+			/* iOS BLUE LINKS */
+			a[x-apple-data-detectors] {
+			    color: inherit !important;
+			    /* text-decoration: none !important; */
+			    font-size: inherit !important;
+			    font-family: inherit !important;
+			    font-weight: inherit !important;
+			    line-height: inherit !important;
+			}
+			
+			/* GMAIL BLUE LINKS */
+			u + #body a {
+			    color: inherit;
+			    text-decoration: none;
+			    font-size: inherit;
+			    font-family: inherit;
+			    font-weight: inherit;
+			    line-height: inherit;
+			}
+			
+			/* SAMSUNG MAIL BLUE LINKS */
+			#MessageViewBody a {
+			    color: inherit;
+			    text-decoration: none;
+			    font-size: inherit;
+			    font-family: inherit;
+			    font-weight: inherit;
+			    line-height: inherit;
+			}
+
+			/* Universal styles for links and stuff */
+			a.blue { color: #229efd !important;}
+			a.black {color: #000000 !important;}
+			a:hover { color: #63bafc !important;}
+			/* a.button:hover { background-color: #000000 !important; } */
+
+			/* Responsive styles  */
+			@media screen and (max-width: 640px) {
+   			 .fluid-mobile {width: 100% !important; }
+			 .m-padding {padding: 0 10px !important;}
+			}
+
+			@media screen and (max-width: 540px) {
+   			 .m-contact { 
+				display: block !important; 
+				text-align: center !important; 
+				padding-bottom: 20px !important;}
+			.m-logo {
+				text-align: center !important;}
+			}
+
+			@media screen and (max-width: 420px) {
+			.m-button {width: 200px !important;}
+			.m-mediaplayer {width: 200px !important;}
+			}
+
+		</style>
+	</head>
+	<body id="body" style="margin: 0 !important; padding: 0 !important;">
+
+		<!-- Preview text for the inbox -->
+		<div style="display: none; max-height: 0; overflow: hidden;">
+			Preheader text goes here.	
+		</div>
+        <div style="display: none; max-height: 0px; overflow: hidden;">
+            &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs
+            p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z
+            wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+            &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs
+            p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z
+            wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+            &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs
+            p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z
+            wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+            &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs
+            p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z
+            wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+            &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+        </div>
+
+
+		<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+			<tr>
+				<td align="center">
+					<table border="0" class="fluid-mobile" cellpadding="0" cellspacing="0" role="presentation" width="640" style="background-color: #ffffff; color: #000000; font-family: 'Fira Sans', sans-serif, Arial; font-size: 18px; line-height: 36px; margin: 0; padding: 0; border: 1px solid #ededed;">
+						<tr>
+							<td>
+								<table border="0" class="" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+									<!-- LOGO-->
+									<tr>
+										<td align="left" class="m-logo" style="padding: 15px 5px 10px;">
+								<!-- MSO COMMENTS FOR PADDING & MARGIN SPACING FOR LOGO -->
+											<!--[if mso]>
+											<style type="text/css">
+												<tr>
+												<td style="padding: 0 0 10px 20px">
+											</style>
+											<![endif]-->
+											<a href="#">
+												<img src="#" alt="Logo" style="padding-left: 20px; width: 150px;" width="150">  
+											</a>
+										</td>
+									</tr>
+									<!-- FEATURE IMAGE -->
+									<tr>
+										<td>
+											<a href="#">
+												<img src="https://assets.homestars.com/b2b/2022/January/Images/template_feature-img.png" alt="feature image" width="640" border="0" style="display: block; color: #000000; width: 100%; max-width: 100%;">
+											</a>
+										</td>
+									</tr>
+									<!-- BODY -->
+									<tr>
+										<td align="left" style="color: #535455; line-height:28px; font-size: 18px;">
+								<!-- MSO COMMENTS FOR PADDING & MARGIN SPACING FOR BODY -->
+											<!--[if mso]>
+											<style type="text/css">
+												<tr>
+												<td style="padding: 0 48px 0 48px; margin: 15px 0 15px 0;">
+											</style>
+											<![endif]-->
+											<p style=" padding: 0 48px; margin: 35px 0;">
+												<span style="font-size: 50px;">🍩</span>
+												<br>
+												Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta magni esse laborum, doloribus at ducimus. Fugit tempora porro consequuntur laborum repudiandae dolorem quasi, quia quod fuga sed, sapiente <a class="blue" href="#" style="color: #229efd; text-decoration: underline;">fugiat architecto</a>?
+												<br><br>
+												<span style="font-size: 50px;">🍪</span>
+												<br>
+												Placeat obcaecati hic exercitationem, architecto voluptatum fugit earum doloremque iure corporis magnam autem animi. Id ullam numquam architecto veniam nemo accusantium cupiditate, delectus, assumenda voluptatibus necessitatibus sit fuga vitae dolorem.
+											</p>
+										</td>
+									</tr>
+									
+									<!-- spacer -->
+									<!-- <tr>
+										<td style="padding-bottom: 20px;">
+										</td>
+									</tr> -->
+									<!-- MEDIA PLAYER - AUDIO-->
+									<tr>
+										<td align="center" style="font-family: 'Fira Sans',	sans-serif, Arial; font-size: 18px;">
+											<audio controls style="padding: 20px; background-color: #229efd" class="m-mediaplayer">
+												<p>
+													<a style="color: #229efd; border: 5px solid #229efd; padding: 20px; text-decoration: none; " href="#">PLAY 🔊</a>
+												</p> 
+												<source src="#">
+												</source>
+											</audio>
+										</td>
+									</tr>
+									<!-- spacer -->
+									<tr>
+										<td style="padding-bottom: 20px;">
+										</td>
+									</tr>
+									
+								<!-- FOOTER -->
+									<!-- Address -->
+									<tr>
+										<td style="background-color: #F8F9FA; font-family: 'Fira Sans', sans-serif, Arial" class="m-padding">
+								<!-- MSO COMMENTS FOR PADDING & MARGIN SPACING FOR LOGO -->
+											<!--[if mso]>
+											<style type="text/css">
+												<tr>
+												<td style="padding-bottom: 15px; background-color: #F8F9FA;">
+											</style>
+											<![endif]-->
+											<p style="text-align: center; font-size: 12px; color: #333333; line-height: 15px; margin-top: 35px;">
+												Company Name, 1 Wonderful Ave, Suite 100, Toronto, ON A1C 3D4, Canada
+												<br>
+												© 2021 Company, Inc. All rights reserved.
+											</p>
+										</td>
+									</tr>
+									<!-- CONTACT -->
+									<tr>
+										<td align="center" class="" style="background-color: #F8F9FA; font-family: 'Fira Sans', sans-serif, Arial">
+											<a class="blue m-contact" style="font-size: 12px;line-height: 18px; padding-right:15px; color: #229efd; text-decoration: underline;" href="tel:1-800-123-4567">
+												<img src="#" alt="" style="width: 17px; padding-right: 5px;" width="17">1-800-123-4567
+											</a>
+											<a class="blue m-contact" style="font-size: 12px;line-height: 18px; padding-left: 15px; color: #229efd; text-decoration: underline;" href="mailto:test@email.com">
+												<img src="#" alt="" style="width: 17px; padding-right: 5px;" width="17">test@email.com
+											</a>
+										</td>
+									</tr>
+
+									<!-- SPACER -->
+									<!--[if mso]>
+										<style type="text/css">
+											<tr>
+											<td style="padding-bottom: 20px; background-color: #F8F9FA;">
+											</td>
+											</style>
+									<![endif]-->
+									
+								
+									<!-- WE SENT THIS EMAIL TO... -->
+									<tr>
+										<td style="background-color: #F8F9FA; font-family: 'Fira Sans', sans-serif, Arial">
+											<p style="text-align: center; font-size: 12px; color: #333333; line-height: 15px; margin: 0;">
+												We sent this email to:  <a class="blue" href="mailto:{{Recipient.Email}}"></a>
+											</p>
+										</td>
+									</tr>
+									<!-- SPACER -->
+									<tr>
+										<td style="padding-bottom: 20px; background-color: #F8F9FA;">
+										</td>
+									</tr> 
+									<!-- FOOTER LINKS -->
+									<tr>
+										<td align="center" style="background-color: #F8F9FA; font-size: 12px; font-family: 'Fira Sans', sans-serif, Arial">
+											<p>
+												<a class="black" href="#" style="color: #333333; font-size: 12px;">View online</a> | 
+												<a class="black" href="#" style="color: #333333; font-size: 12px;">Terms of use</a> | 
+												<a class="black" href="#" style="color: #333333; font-size: 12px;">Unsubscribe</a>
+											</p>
+										</td>
+									</tr>
+									<!-- SOCIAL LINKS -->
+									<tr>
+										<td align="center" style="background-color: #F8F9FA; padding: 15px 0">
+											<a href="#" style="text-decoration: none;">
+												<img border="0" src="#" alt="linkedin icon" width="30">
+											</a>
+											<a href="#" style="text-decoration: none;">
+												<img src="#" alt="instagram icon" style="padding: 0 20px;" width="30">
+											</a>
+											<a href="#" style="text-decoration: none;">
+												<img src="#" alt="facebook icon" width="30">
+											</a>
+										</td>
+									</tr>
+									<!-- end of email -->
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
